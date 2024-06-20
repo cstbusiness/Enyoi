@@ -344,3 +344,57 @@ header img {
 .find-content-link > a {
     color: #000000;
 }
+
+.footer-section {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin: 5rem;
+}
+
+.footer-section-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-nav {
+    display: flex;
+    margin: 1rem 1rem;
+    padding: 1rem;
+}
+
+.footer-nav > a {
+    text-decoration: none;
+    color: #000000;
+    padding: 2rem 2rem;
+}
+
+.footer-icons {
+    display: flex;
+    padding: 2rem 2rem;
+}
+
+.footer-icons > img {
+    height: 3rem;
+    width: 3rem;
+    margin: 1rem;
+}
+
+.footer-end {
+    display: flex;
+    justify-content: space-between;
+    padding: 5rem 5rem;
+}
+
+.footer-end-polices {
+    margin: 1rem;
+}
+
+.footer-end-polices > span {
+    padding: 0.5rem;
+}
+
+.footer-end-polices > a {
+    text-decoration: none;
+    color: #000000;
+    margin: 0.5rem;
+}
